@@ -1,2 +1,2 @@
 # simple-libuv-sockets
-Simple libuv-based single-threaded asynchronous sockets for C++.
+Simple libuv-based single-threaded asynchronous TCP & UDP socket classes in C++.
