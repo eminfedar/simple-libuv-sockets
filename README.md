@@ -1,4 +1,5 @@
 # Asynchronous Sockets for C++ [libuv]
+# NOT FULLY FINISHED
 Simple libuv-based single-threaded asynchronous TCP & UDP client & server classes in C++.
 ```cpp
 // Initialize a tcp socket.
